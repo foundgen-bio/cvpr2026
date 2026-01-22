@@ -23,7 +23,7 @@ socials:
 
 <!-- Welcome to CVPR 2026 Workshop on Foundation and Generative Models in Biometrics! -->
 
-June 3/4, 2026, Denver Colorado, USA
+June 3/4, 2026, Denver, Colorado, USA
 
 ## Introduction
 Foundation models (such as CLIP, GPT, etc.) are extensively studied in different domains, including natural

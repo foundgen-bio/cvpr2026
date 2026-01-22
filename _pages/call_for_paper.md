@@ -35,11 +35,11 @@ OpenReview author instructions can be found [here](https://cvpr.thecvf.com/Confe
 
 
 ## Submission Process
-The submission will open soon.
+All submissions should be made through the workshop's OpenReview portal: [https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/FoundGen-Bio](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/FoundGen-Bio)
 
 
 ## Important Dates 
-- Submission deadline : March 15, 2026 (23:59 AoE)
-- Paper notification: April 2, 2026
-- Camera-ready deadline: April 11, 2026
+- Submission deadline : March 2, 2026 (23:59 AoE)
+- Paper notification: March 19, 2026
+- Camera-ready deadline: April 10, 2026
 - Workshop date: June 3/4, 2026 (TBD)
