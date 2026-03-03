@@ -40,6 +40,6 @@ All submissions should be made through the workshop's OpenReview portal: [https:
 
 ## Important Dates 
 - Submission deadline (**extended**): March 10, 2026 (23:59 AoE)
-- Paper notification: March 19, 2026
+- Paper notification: March 24, 2026
 - Camera-ready deadline: April 10, 2026
 - Workshop date: June 3/4, 2026 (TBD)
