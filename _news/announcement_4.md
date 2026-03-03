@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Submission deadline is extended to March 7](https://foundgen-bio.github.io/cvpr2026/call_for_paper/).
+[Submission deadline is extended to March 10](https://foundgen-bio.github.io/cvpr2026/call_for_paper/).
