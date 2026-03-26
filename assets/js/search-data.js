@@ -50,6 +50,9 @@ ninja.data = [{
           section: "News",},{id: "news-submission-deadline-is-extended-to-march-10",
           title: 'Submission deadline is extended to March 10.',
           description: "",
+          section: "News",},{id: "news-decision-notifications-are-sent-to-authors-congratulations-to-authors-of-accepted-papers",
+          title: 'Decision notifications are sent to authors. Congratulations to authors of accepted papers!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
