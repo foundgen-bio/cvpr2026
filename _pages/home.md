@@ -60,7 +60,42 @@ The **Second Workshop on Foundation and Generative Models in Biometrics** at [CV
 
 
 ## Technical Program Committee
-**Call for Reviewers:** If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/1dihY64b72DuQxex7). We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px 40px;">
+<div>Varun Jain (Microsoft)</div>
+<div>Prasanth	Yadla (Apple)</div>
+<div>Ruben Tolosana (Universidad Autónoma de Madrid)</div>
+<div>Adams Wai-Kin Kong (Nanyang Technological University)</div>
+<div>Alok Upadhyay (Amazon)</div>
+<div>Ruben Vera-Rodriguez (Universidad Autónoma de Madrid)</div>
+<div>Junghyun Cho (Korea Institute of Science and Technology)</div>
+<div>Naser Damer (Fraunhofer IGD)</div>
+<div>Ajian Liu (Institute of Automation, CASIA)</div>
+<div>Feng Liu (Drexel University)</div>
+<div>Daniel Moreira (Loyola University Chicago)</div>
+<div>Parisa Farmanifard (Michigan State University)</div>
+<div>Žiga Babnik (University of Ljubljana)</div>
+<div>Alain Komaty (Idiap Research Institute)</div>
+<div>Fadi Boutros (Fraunhofer IGD)</div>
+<div>Davide Cozzolino (University of Naples Federico II)</div>
+<div>Qi Song (Hong Kong Baptist University)</div>
+<div>Jeongmin Yu (Yonsei University)</div>
+<div>Shiqi Yu (Southern University of Science and Technology)</div>
+<div>Juan E. Tapia (Hochschule Darmstadt)</div>
+<div>Marco Huber (Fraunhofer IGD)</div>
+<div>Khan Muhammad (Sung Kyun Kwan University)</div>
+<div>Ana F. Sequeira (Universidade do Porto)</div>
+<div>Marija Ivanovska (University of Ljubljana)</div>
+<div>Lazaro Janier Gonzalez-Soler (Hochschule Darmstadt)</div>
+<div>Cunjian Chen (Monash University)</div>
+<div>Tak Yeon Lee (Korea Advanced Institute of Science & Technology)</div>
+<div>Andrea Atzori (Fraunhofer IGD)</div>
+<div>Kartik Narayan (Johns Hopkins University)</div>
+<div>Ahmad Hassanpour (NTNU)</div>
+<div>Emanuele Maiorana (Roma Tre University)</div>
+<div>Deepak Kumar Jain (Dalian University of Technology)</div>
+<div>Sudipta Banerjee (New York University)</div>
+<br>
+</div>
 
 ## Contact
 If you have any questions, please contact [hatef.otroshi@idiap.ch](mailto:hatef.otroshi@idiap.ch?subject=Inquiry%20about%20CVPR%202026%20Workshop%20on%20Foundation%20and%20Generative%20Models%20in%20Biometrics).
