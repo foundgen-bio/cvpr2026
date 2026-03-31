@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-03-30 17:00:00+0200
+date: 2026-03-31 17:00:00+0200
 title: List of accepted papers are available.
 inline: false
 related_posts: false
