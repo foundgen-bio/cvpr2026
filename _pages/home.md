@@ -63,7 +63,7 @@ The **Second Workshop on Foundation and Generative Models in Biometrics** at [CV
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px 40px;">
 <div>Varun Jain (Microsoft)</div>
 <div>Ruben Tolosana (Universidad Autónoma de Madrid)</div>
-<div>Prasanth	Yadla (Apple)</div>
+<div>Prasanth	Yadla (Independent Researcher)</div>
 <div>Adams Wai-Kin Kong (Nanyang Technological University)</div>
 <div>Alok Upadhyay (Amazon)</div>
 <div>Naser Damer (Fraunhofer IGD)</div>
