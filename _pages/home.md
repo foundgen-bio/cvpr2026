@@ -36,14 +36,6 @@ The **Second Workshop on Foundation and Generative Models in Biometrics** at [CV
 
 
 ## Invited Speakers
-<div class="row projects pt-1 pb-1">
-      <div class="col-sm-4">
-          {% include people.html name="Xiaoming Liu" affiliation="University of North Carolina at Chapel Hill" url="https://scholar.google.com/citations?user=Bii0w1oAAAAJ" img="/assets/img/speakers/XiaomingLiu.jpg" %}
-      </div>
-      <!-- <div class="col-sm-4">
-        {% include people.html name="Kuntal Sengupta" affiliation="Google" url="https://scholar.google.com/citations?user=5aoreLoAAAAJ" img="/assets/img/speakers/KuntalSengupta.jpeg" %}
-      </div> -->
-  </div>
 
 
 
