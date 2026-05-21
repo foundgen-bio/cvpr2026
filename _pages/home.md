@@ -40,6 +40,9 @@ The **Second Workshop on Foundation and Generative Models in Biometrics** at [CV
       <div class="col-sm-4">
           {% include people.html name="Xiaoming Liu" affiliation="University of North Carolina at Chapel Hill" url="https://scholar.google.com/citations?user=Bii0w1oAAAAJ" img="/assets/img/speakers/XiaomingLiu.jpg" %}
       </div>
+      <div class="col-sm-4">
+          {% include people.html name="Karthik Nandakumar" affiliation="Michigan State University" url="https://scholar.google.com/citations?user=2qx0RnEAAAAJ" img="/assets/img/speakers/KarthikNandakumar.jpeg" %}
+      </div>
   </div>
 
 
