@@ -68,7 +68,7 @@ table td div::before {
       <td>14:00 – 14:35</td>
       <td>Room 113</td>
       <td><strong>Keynote 2</strong></td>
-      <td><em>Title TBD</em><br>
+      <td><em>Fighting Fire with Fire: Leveraging Generative Models for Enhancing Facial Privacy</em><br>
       Karthik Nandakumar</td>
     </tr>
 
