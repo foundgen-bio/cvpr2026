@@ -108,7 +108,7 @@ table td div::before {
 
     <tr>
       <td>16:00 – 18:00</td>
-      <td>Exhibit Hall A</td>
+      <td>Exhibit Hall A (Boards # 237-241)</td>
       <td><strong>Poster Session</strong></td>
       <td>All papers</td>
     </tr>
