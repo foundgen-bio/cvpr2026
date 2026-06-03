@@ -81,7 +81,7 @@ table td div::before {
         </div>
         <div><em>PaCo-FR: Patch-Pixel Aligned End-to-End Codebook Learning for Facial Representation Pre-training</em><br>Yin Xie, Zhichao Chen, Zeyu Xiao, Yongle Zhao, Xiang An, Kaicheng Yang, Zimin Ran, Jia Guo, Ziyong Feng, Jiankang Deng<br>
         </div>
-        <div><em>SKULPT Yourself: A Data-Driven Facial Reconstruction Pipeline and Expert-Guided Evaluation Study</em><br>Maida Aizaz, Khadija Rajabova, Seon Gyeom Kim, Won Joon Lee, Joon Yeol Ryu, Hyobong Jang, Soojung Park, Kiwan Jeon, Hyoung Suk Park, Sung Ho Kang, Tak Yeon Lee<br>
+        <div><em>From Detector Evidence to Language: Explainable Deepfake Video Detection</em><br>Amirhossein Panahi, Virginia R. de Sa<br>
         </div>
         <div><em>Intra-finger Variability of Diffusion-based Latent Fingerprint Generation</em><br>Noor Hazim Hussein, Anil K. Jain, Karthik Nandakumar<br>
         </div>
@@ -91,9 +91,9 @@ table td div::before {
         </div>
         <div><em>Demographic Fairness in Multimodal LLMs: A Benchmark of Gender and Ethnicity Bias in Face Verification</em><br>Ünsal Öztürk, Hatef Otroshi Shahreza, Sébastien Marcel<br>
         </div>
-        <div><em>Frontal Face Synthesis by Using Vision Transformers</em><br>Hakan Cevikalp, HASAN Saribas, Kaya Turgut<br>
+        <div><em>SKULPT Yourself: A Data-Driven Facial Reconstruction Pipeline and Expert-Guided Evaluation Study</em><br>Maida Aizaz, Khadija Rajabova, Seon Gyeom Kim, Won Joon Lee, Joon Yeol Ryu, Hyobong Jang, Soojung Park, Kiwan Jeon, Hyoung Suk Park, Sung Ho Kang, Tak Yeon Lee<br>
         </div>
-        <div><em>From Detector Evidence to Language: Explainable Deepfake Video Detection</em><br>Amirhossein Panahi, Virginia R. de Sa<br>
+        <div><em>Frontal Face Synthesis by Using Vision Transformers</em><br>Hakan Cevikalp, Hasan Saribas, Kaya Turgut<br>
         </div>
       </td>
     </tr>
